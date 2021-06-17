@@ -1,0 +1,12 @@
+{
+    "token": "ODQwNTUxMjA0MDgwNzEzNzM5.YJZ2Tw.tw7wc5dpWBJM9-rMfGCvr1VCya4",
+    "guild": "752732887878467594",
+    "urls": {
+        "RobloxGameInfos": "https://games.roblox.com/v1/games?universeIds=UNIVERSEID",
+        "RobloxGroupInfos": "https://groups.roblox.com/v1/groups/GROUPID"
+    },
+    "voicechannels": {
+        "RobloxActivePlaying": "VoiceChannelID",
+        "RobloxGroupMemberCount": "VoiceChannelID"
+    }
+}
